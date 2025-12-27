@@ -1,6 +1,6 @@
 {
   "name": "@codecaine/bun-redis-wrapper",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Production-ready Redis wrapper for Bun with namespaces, controllers, and TypeScript support",
   "author": "codecaine-zz",
   "license": "MIT",
