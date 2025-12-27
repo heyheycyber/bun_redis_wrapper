@@ -1,0 +1,27 @@
+{
+  "name": "bun_redis_wrapper",
+  "version": "1.0.0",
+  "description": "Single-file Redis namespace wrapper for Bun with automatic key prefixing",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun run index.ts",
+    "example": "bun run example.ts",
+    "test": "bun test",
+    "test:watch": "bun test --watch"
+  },
+  "keywords": [
+    "redis",
+    "namespace",
+    "bun",
+    "wrapper",
+    "key-prefix"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
